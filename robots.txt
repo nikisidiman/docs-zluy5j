@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-vo08sb.salamcuanwin.xyz/sitemap.xml
